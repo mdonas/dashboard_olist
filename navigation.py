@@ -13,11 +13,17 @@ pages = {
     ],
     "Pedidos": [
         st.Page("./pedidos/customer_order.py", title="Clientes por pedido"),
-        st.Page("./pedidos/delayed_orders.py", title="Pedidos retrasados")
+        st.Page("./pedidos/delayed_orders.py", title="Pedidos retrasados"),
+        st.Page("./pedidos/map_delayed_orders_state.py", title="Mapa de porcentaje de pedidos retrasados por estado"),
 
     ],
     'Reseñas':[
         st.Page("./reviews/review_state.py", title="Reseñas por estado"),
+    ],
+    'Ventas':[
+        st.Page("./ventas/top_category.py",title='Categorías dominantes'),
+        st.Page("./ventas/sales_category.py",title="Ventas por categoría"),
+        st.Page("./ventas/map_sales_state.py", title="Mapa de ventas por estado")
     ]
 }
 pg = st.navigation(pages,position='top')

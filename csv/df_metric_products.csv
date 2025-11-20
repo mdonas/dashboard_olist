@@ -1,0 +1,1363 @@
+customer_state,product_category_name_en,number_sells,number_customers,sell_percentage_%,ratio_customer_buy
+SP,bed bath table,5157,4347,4.75,1.19
+SP,health beauty,4125,3715,3.8,1.11
+SP,sports leisure,3576,3216,3.29,1.11
+SP,furniture decor,3454,2720,3.18,1.27
+SP,housewares,3184,2665,2.93,1.19
+SP,computers accessories,3099,2616,2.85,1.18
+SP,watches gifts,2234,2090,2.06,1.07
+SP,auto,1716,1585,1.58,1.08
+SP,toys,1674,1577,1.54,1.06
+SP,telephony,1612,1491,1.48,1.08
+RJ,bed bath table,1605,1357,1.48,1.18
+SP,garden tools,1532,1333,1.41,1.15
+SP,perfumery,1444,1289,1.33,1.12
+SP,cool stuff,1339,1242,1.23,1.08
+MG,bed bath table,1322,1143,1.22,1.16
+SP,baby,1230,1120,1.13,1.1
+MG,health beauty,1064,990,0.98,1.07
+RJ,furniture decor,1057,963,0.97,1.1
+SP,stationery,1044,939,0.96,1.11
+RJ,health beauty,1028,928,0.95,1.11
+RJ,sports leisure,1015,899,0.93,1.13
+SP,electronics,994,862,0.91,1.15
+MG,computers accessories,981,850,0.9,1.15
+RJ,computers accessories,976,835,0.9,1.17
+MG,sports leisure,945,828,0.87,1.14
+MG,furniture decor,936,789,0.86,1.19
+SP,pet shop,889,763,0.82,1.17
+RJ,watches gifts,846,761,0.78,1.11
+RJ,housewares,845,717,0.78,1.18
+SP,fashion bags accessories,841,715,0.77,1.18
+MG,housewares,814,685,0.75,1.19
+SP,office furniture,655,601,0.6,1.09
+RJ,garden tools,634,538,0.58,1.18
+MG,watches gifts,626,537,0.58,1.17
+RS,bed bath table,611,530,0.56,1.15
+MG,garden tools,603,504,0.55,1.2
+RJ,toys,570,483,0.52,1.18
+RS,furniture decor,555,483,0.51,1.15
+PR,furniture decor,516,461,0.47,1.12
+RJ,cool stuff,502,452,0.46,1.11
+MG,auto,499,450,0.46,1.11
+MG,toys,488,442,0.45,1.1
+RS,computers accessories,481,438,0.44,1.1
+PR,sports leisure,476,429,0.44,1.11
+MG,telephony,474,420,0.44,1.13
+SP,consoles games,472,416,0.43,1.13
+RS,sports leisure,468,414,0.43,1.13
+PR,bed bath table,463,403,0.43,1.15
+MG,cool stuff,454,402,0.42,1.13
+SP,luggage accessories,451,398,0.42,1.13
+RJ,perfumery,439,393,0.4,1.12
+RJ,auto,431,393,0.4,1.1
+RJ,electronics,430,389,0.4,1.11
+RS,housewares,429,388,0.39,1.11
+RS,health beauty,427,386,0.39,1.11
+SP,construction tools construction,422,375,0.39,1.13
+RJ,telephony,419,367,0.39,1.14
+PR,health beauty,414,345,0.38,1.2
+MG,perfumery,396,340,0.36,1.16
+PR,computers accessories,383,339,0.35,1.13
+MG,baby,366,334,0.34,1.1
+SC,sports leisure,356,333,0.33,1.07
+RJ,baby,347,332,0.32,1.05
+SC,furniture decor,347,319,0.32,1.09
+SP,home appliances,341,309,0.31,1.1
+BA,health beauty,340,294,0.31,1.16
+PR,housewares,336,282,0.31,1.19
+SC,bed bath table,326,282,0.3,1.16
+RJ,stationery,319,271,0.29,1.18
+SC,computers accessories,309,270,0.28,1.14
+SC,health beauty,304,268,0.28,1.13
+RJ,office furniture,301,266,0.28,1.13
+PR,watches gifts,299,260,0.28,1.15
+SP,small appliances,296,259,0.27,1.14
+MG,electronics,295,252,0.27,1.17
+BA,sports leisure,286,250,0.26,1.14
+SP,food,283,247,0.26,1.15
+RS,telephony,283,247,0.26,1.15
+RS,garden tools,281,244,0.26,1.15
+MG,stationery,269,242,0.25,1.11
+SP,home construction,264,239,0.24,1.1
+SP,musical instruments,260,228,0.24,1.14
+RS,cool stuff,259,226,0.24,1.15
+MG,fashion bags accessories,259,224,0.24,1.16
+SC,housewares,257,222,0.24,1.16
+BA,bed bath table,254,220,0.23,1.15
+PR,telephony,250,220,0.23,1.14
+BA,computers accessories,250,219,0.23,1.14
+MG,pet shop,250,218,0.23,1.15
+BA,furniture decor,247,215,0.23,1.15
+DF,health beauty,242,214,0.22,1.13
+BA,telephony,241,214,0.22,1.13
+PE,health beauty,233,212,0.21,1.1
+GO,bed bath table,231,211,0.21,1.09
+RS,watches gifts,230,206,0.21,1.12
+PR,auto,228,203,0.21,1.12
+GO,health beauty,227,202,0.21,1.12
+BA,watches gifts,225,200,0.21,1.12
+SP,books general interest,224,200,0.21,1.12
+ES,bed bath table,223,198,0.21,1.13
+DF,sports leisure,218,197,0.2,1.11
+PR,cool stuff,214,197,0.2,1.09
+RJ,pet shop,211,197,0.19,1.07
+RS,toys,208,192,0.19,1.08
+PR,garden tools,207,189,0.19,1.1
+RS,baby,206,188,0.19,1.1
+DF,bed bath table,206,184,0.19,1.12
+SP,drinks,205,181,0.19,1.13
+PR,toys,202,175,0.19,1.15
+SP,home confort,201,173,0.18,1.16
+SP,furniture living room,200,172,0.18,1.16
+RJ,fashion bags accessories,199,170,0.18,1.17
+SC,watches gifts,184,166,0.17,1.11
+RS,auto,184,163,0.17,1.13
+SC,garden tools,183,163,0.17,1.12
+MG,luggage accessories,182,160,0.17,1.14
+SC,auto,178,160,0.16,1.11
+PR,electronics,177,159,0.16,1.11
+BA,garden tools,177,157,0.16,1.13
+ES,sports leisure,173,156,0.16,1.11
+SC,telephony,169,152,0.16,1.11
+MG,office furniture,167,151,0.15,1.11
+RS,electronics,165,149,0.15,1.11
+GO,sports leisure,163,148,0.15,1.1
+PE,watches gifts,163,147,0.15,1.11
+ES,health beauty,163,145,0.15,1.12
+CE,health beauty,162,145,0.15,1.12
+SC,cool stuff,159,145,0.15,1.1
+PR,baby,158,144,0.15,1.1
+DF,computers accessories,156,143,0.14,1.09
+BA,auto,155,142,0.14,1.09
+BA,housewares,154,141,0.14,1.09
+DF,housewares,153,138,0.14,1.11
+PR,perfumery,153,138,0.14,1.11
+RS,perfumery,151,138,0.14,1.09
+DF,furniture decor,151,137,0.14,1.1
+ES,computers accessories,150,136,0.14,1.1
+ES,watches gifts,149,136,0.14,1.1
+RS,stationery,147,134,0.14,1.1
+DF,watches gifts,146,133,0.13,1.1
+ES,furniture decor,145,133,0.13,1.09
+SP,audio,144,127,0.13,1.13
+GO,watches gifts,142,127,0.13,1.12
+SP,construction tools lights,141,125,0.13,1.13
+PE,sports leisure,140,121,0.13,1.16
+BA,cool stuff,140,120,0.13,1.17
+SP,kitchen dining laundry garden furniture,137,119,0.13,1.15
+RJ,consoles games,136,119,0.13,1.14
+SP,air conditioning,136,118,0.13,1.15
+CE,watches gifts,134,115,0.12,1.17
+MG,consoles games,130,114,0.12,1.14
+SP,food drink,129,114,0.12,1.13
+GO,housewares,129,113,0.12,1.14
+SP,industry commerce and business,128,113,0.12,1.13
+PE,telephony,127,112,0.12,1.13
+PR,stationery,126,112,0.12,1.12
+SC,electronics,123,112,0.11,1.1
+GO,furniture decor,123,110,0.11,1.12
+GO,computers accessories,123,109,0.11,1.13
+MG,construction tools construction,120,108,0.11,1.11
+GO,telephony,120,108,0.11,1.11
+RJ,construction tools construction,119,107,0.11,1.11
+RJ,luggage accessories,119,107,0.11,1.11
+SC,toys,118,106,0.11,1.11
+PR,fashion bags accessories,118,103,0.11,1.15
+GO,garden tools,117,103,0.11,1.14
+SC,perfumery,116,102,0.11,1.14
+RJ,furniture living room,115,101,0.11,1.14
+SP,market place,115,100,0.11,1.15
+ES,telephony,114,100,0.1,1.14
+SC,baby,113,99,0.1,1.14
+BA,toys,113,99,0.1,1.14
+ES,housewares,112,98,0.1,1.14
+SP,books technical,111,98,0.1,1.13
+SP,fixed telephony,111,97,0.1,1.14
+BA,electronics,107,97,0.1,1.1
+PE,computers accessories,106,95,0.1,1.12
+DF,auto,106,94,0.1,1.13
+PA,health beauty,105,92,0.1,1.14
+ES,garden tools,102,92,0.09,1.11
+GO,auto,98,91,0.09,1.08
+RS,pet shop,97,89,0.09,1.09
+SP,costruction tools garden,96,88,0.09,1.09
+ES,toys,96,87,0.09,1.1
+DF,toys,95,86,0.09,1.1
+SP,signaling and security,94,84,0.09,1.12
+PE,furniture decor,94,84,0.09,1.12
+SP,agro industry and commerce,94,83,0.09,1.13
+BA,baby,94,83,0.09,1.13
+GO,cool stuff,93,83,0.09,1.12
+SC,stationery,93,82,0.09,1.13
+CE,telephony,92,82,0.08,1.12
+BA,office furniture,92,82,0.08,1.12
+SP,art,91,82,0.08,1.11
+DF,telephony,91,82,0.08,1.11
+CE,sports leisure,91,82,0.08,1.11
+PE,bed bath table,90,80,0.08,1.12
+SP,fashion shoes,89,80,0.08,1.11
+PR,pet shop,89,80,0.08,1.11
+MT,health beauty,89,80,0.08,1.11
+GO,perfumery,88,80,0.08,1.1
+MA,health beauty,88,80,0.08,1.1
+PR,office furniture,88,80,0.08,1.1
+SP,home appliances 2,87,79,0.08,1.1
+CE,computers accessories,87,79,0.08,1.1
+PA,computers accessories,86,79,0.08,1.09
+MG,home appliances,85,79,0.08,1.08
+RJ,small appliances,85,77,0.08,1.1
+SC,pet shop,85,77,0.08,1.1
+DF,perfumery,85,75,0.08,1.13
+ES,auto,84,75,0.08,1.12
+CE,furniture decor,83,75,0.08,1.11
+PA,sports leisure,81,74,0.07,1.09
+CE,bed bath table,81,74,0.07,1.09
+GO,toys,81,74,0.07,1.09
+BA,perfumery,81,73,0.07,1.11
+RS,fashion bags accessories,80,73,0.07,1.1
+PE,cool stuff,79,72,0.07,1.1
+RJ,home appliances,79,72,0.07,1.1
+PE,auto,79,72,0.07,1.1
+DF,cool stuff,78,71,0.07,1.1
+ES,electronics,78,71,0.07,1.1
+MG,musical instruments,77,70,0.07,1.1
+RJ,musical instruments,77,69,0.07,1.12
+PA,telephony,77,68,0.07,1.13
+PB,health beauty,76,67,0.07,1.13
+SC,fashion bags accessories,76,67,0.07,1.13
+BA,fashion bags accessories,76,66,0.07,1.15
+BA,stationery,75,64,0.07,1.17
+MT,furniture decor,75,64,0.07,1.17
+MS,sports leisure,74,63,0.07,1.17
+MT,sports leisure,73,62,0.07,1.18
+PA,watches gifts,73,61,0.07,1.2
+RJ,home construction,71,61,0.07,1.16
+MT,bed bath table,70,61,0.06,1.15
+DF,baby,69,60,0.06,1.15
+PA,furniture decor,69,60,0.06,1.15
+ES,perfumery,68,59,0.06,1.15
+RJ,air conditioning,67,59,0.06,1.14
+MA,computers accessories,67,59,0.06,1.14
+RS,office furniture,66,59,0.06,1.12
+ES,cool stuff,66,58,0.06,1.14
+MS,furniture decor,65,58,0.06,1.12
+MA,sports leisure,65,58,0.06,1.12
+MS,health beauty,64,58,0.06,1.1
+MG,small appliances,64,57,0.06,1.12
+MA,telephony,64,57,0.06,1.12
+SP,construction tools safety,64,57,0.06,1.12
+PE,garden tools,64,56,0.06,1.14
+CE,toys,64,56,0.06,1.14
+MS,bed bath table,64,56,0.06,1.14
+MG,home construction,63,56,0.06,1.12
+MT,telephony,63,55,0.06,1.15
+MS,computers accessories,62,55,0.06,1.13
+AL,health beauty,62,55,0.06,1.13
+RJ,home confort,61,54,0.06,1.13
+MT,watches gifts,61,54,0.06,1.13
+PE,toys,61,54,0.06,1.13
+ES,baby,61,54,0.06,1.13
+BA,pet shop,61,54,0.06,1.13
+SC,office furniture,60,53,0.06,1.13
+DF,garden tools,60,53,0.06,1.13
+MA,watches gifts,59,53,0.05,1.11
+SP,computers,59,53,0.05,1.11
+RJ,audio,58,53,0.05,1.09
+PE,housewares,58,52,0.05,1.12
+RS,consoles games,58,52,0.05,1.12
+CE,auto,58,52,0.05,1.12
+MG,home confort,57,52,0.05,1.1
+RN,health beauty,57,50,0.05,1.14
+CE,housewares,56,50,0.05,1.12
+MT,computers accessories,55,50,0.05,1.1
+RS,luggage accessories,55,50,0.05,1.1
+CE,garden tools,55,50,0.05,1.1
+CE,perfumery,55,49,0.05,1.12
+MG,books general interest,54,48,0.05,1.12
+SP,fashion male clothing,54,48,0.05,1.12
+MT,auto,54,47,0.05,1.15
+PB,computers accessories,53,47,0.05,1.13
+RJ,drinks,53,47,0.05,1.13
+SP,fashion underwear beach,53,46,0.05,1.15
+PI,health beauty,53,46,0.05,1.15
+GO,baby,52,46,0.05,1.13
+SP,furniture bedroom,52,46,0.05,1.13
+MT,housewares,52,45,0.05,1.16
+PR,construction tools construction,51,45,0.05,1.13
+DF,electronics,51,45,0.05,1.13
+MT,garden tools,51,45,0.05,1.13
+PR,luggage accessories,50,45,0.05,1.11
+SP,christmas supplies,50,45,0.05,1.11
+CE,cool stuff,50,44,0.05,1.14
+RJ,food drink,50,44,0.05,1.14
+ES,stationery,50,44,0.05,1.14
+RJ,books general interest,50,44,0.05,1.14
+PA,auto,49,44,0.05,1.11
+RN,watches gifts,48,44,0.04,1.09
+PE,perfumery,48,44,0.04,1.09
+ES,fashion bags accessories,48,43,0.04,1.12
+GO,stationery,48,43,0.04,1.12
+PE,stationery,47,42,0.04,1.12
+RJ,food,47,42,0.04,1.12
+MG,furniture living room,47,42,0.04,1.12
+RJ,kitchen dining laundry garden furniture,46,42,0.04,1.1
+PA,cool stuff,46,42,0.04,1.1
+RJ,home appliances 2,45,41,0.04,1.1
+CE,electronics,45,41,0.04,1.1
+MA,furniture decor,45,41,0.04,1.1
+DF,stationery,45,41,0.04,1.1
+RS,small appliances,45,40,0.04,1.12
+MT,cool stuff,45,40,0.04,1.12
+DF,fashion bags accessories,44,40,0.04,1.1
+PA,baby,44,40,0.04,1.1
+MT,toys,44,40,0.04,1.1
+RS,home appliances,44,39,0.04,1.13
+GO,fashion bags accessories,44,39,0.04,1.13
+PR,home appliances,44,39,0.04,1.13
+PR,consoles games,44,39,0.04,1.13
+RS,construction tools construction,43,38,0.04,1.13
+RS,home construction,43,38,0.04,1.13
+MG,fashion shoes,43,38,0.04,1.13
+PB,furniture decor,42,38,0.04,1.11
+PE,baby,41,38,0.04,1.08
+PI,watches gifts,41,38,0.04,1.08
+MG,construction tools lights,41,37,0.04,1.11
+PB,watches gifts,41,36,0.04,1.14
+PR,small appliances,41,36,0.04,1.14
+MS,housewares,39,35,0.04,1.11
+AL,computers accessories,39,35,0.04,1.11
+DF,pet shop,39,34,0.04,1.15
+MA,auto,39,34,0.04,1.15
+RJ,costruction tools garden,38,34,0.03,1.12
+PE,electronics,38,34,0.03,1.12
+PA,bed bath table,38,34,0.03,1.12
+SE,health beauty,38,34,0.03,1.12
+MS,watches gifts,37,34,0.03,1.09
+CE,stationery,37,34,0.03,1.09
+PA,housewares,37,33,0.03,1.12
+MG,food,37,33,0.03,1.12
+BA,home appliances,37,33,0.03,1.12
+PA,garden tools,37,33,0.03,1.12
+PR,musical instruments,36,33,0.03,1.09
+PR,books general interest,36,33,0.03,1.09
+BA,construction tools construction,36,33,0.03,1.09
+SE,computers accessories,36,32,0.03,1.12
+MA,bed bath table,36,32,0.03,1.12
+SP,books imported,36,32,0.03,1.12
+TO,health beauty,36,32,0.03,1.12
+AL,watches gifts,35,32,0.03,1.09
+PA,perfumery,35,32,0.03,1.09
+PI,telephony,35,32,0.03,1.09
+PI,computers accessories,35,32,0.03,1.09
+SC,luggage accessories,34,32,0.03,1.06
+MG,audio,34,32,0.03,1.06
+PI,bed bath table,34,31,0.03,1.1
+BA,consoles games,34,31,0.03,1.1
+RJ,market place,34,31,0.03,1.1
+MS,toys,34,31,0.03,1.1
+SC,consoles games,34,31,0.03,1.1
+MG,market place,33,31,0.03,1.06
+SP,small appliances home oven and coffee,33,31,0.03,1.06
+GO,electronics,33,31,0.03,1.06
+MT,baby,33,30,0.03,1.1
+SE,sports leisure,33,30,0.03,1.1
+PE,fashion bags accessories,33,30,0.03,1.1
+PI,auto,33,30,0.03,1.1
+MA,cool stuff,33,30,0.03,1.1
+PI,sports leisure,33,29,0.03,1.14
+SP,costruction tools tools,33,29,0.03,1.14
+RJ,fixed telephony,33,29,0.03,1.14
+RJ,art,32,29,0.03,1.1
+SP,tablets printing image,32,29,0.03,1.1
+PB,bed bath table,32,29,0.03,1.1
+AL,sports leisure,32,29,0.03,1.1
+BA,musical instruments,32,29,0.03,1.1
+PA,fashion bags accessories,31,29,0.03,1.07
+PB,sports leisure,31,28,0.03,1.11
+RN,computers accessories,31,28,0.03,1.11
+RS,musical instruments,31,28,0.03,1.11
+CE,baby,31,28,0.03,1.11
+MS,baby,31,28,0.03,1.11
+MT,perfumery,30,28,0.03,1.07
+SC,construction tools construction,30,27,0.03,1.11
+BA,luggage accessories,30,27,0.03,1.11
+RN,bed bath table,30,27,0.03,1.11
+ES,office furniture,30,27,0.03,1.11
+SP,cine photo,30,27,0.03,1.11
+AL,furniture decor,30,27,0.03,1.11
+SP,diapers and hygiene,30,27,0.03,1.11
+MA,perfumery,30,26,0.03,1.15
+TO,watches gifts,29,26,0.03,1.12
+MG,costruction tools garden,29,26,0.03,1.12
+RN,furniture decor,29,26,0.03,1.12
+RJ,books technical,29,26,0.03,1.12
+MG,books technical,29,26,0.03,1.12
+MG,kitchen dining laundry garden furniture,29,26,0.03,1.12
+CE,office furniture,28,25,0.03,1.12
+PI,toys,28,25,0.03,1.12
+RS,books general interest,28,25,0.03,1.12
+MS,telephony,28,25,0.03,1.12
+RJ,industry commerce and business,28,25,0.03,1.12
+RJ,fashion shoes,28,24,0.03,1.17
+GO,pet shop,28,24,0.03,1.17
+PA,electronics,28,24,0.03,1.17
+MT,stationery,28,24,0.03,1.17
+PR,food,27,24,0.02,1.12
+RJ,agro industry and commerce,27,24,0.02,1.12
+DF,consoles games,27,24,0.02,1.12
+SE,garden tools,27,24,0.02,1.12
+CE,fashion bags accessories,27,24,0.02,1.12
+RN,books general interest,27,24,0.02,1.12
+AL,telephony,27,23,0.02,1.17
+SC,small appliances,27,23,0.02,1.17
+SE,telephony,27,23,0.02,1.17
+PA,toys,27,23,0.02,1.17
+MS,auto,26,23,0.02,1.13
+PB,telephony,26,23,0.02,1.13
+SP,fashio female clothing,26,23,0.02,1.13
+MA,baby,26,22,0.02,1.18
+MT,electronics,26,22,0.02,1.18
+PA,office furniture,26,22,0.02,1.18
+ES,pet shop,26,22,0.02,1.18
+MG,food drink,26,22,0.02,1.18
+MA,fashion bags accessories,25,22,0.02,1.14
+RN,telephony,25,22,0.02,1.14
+RO,health beauty,25,22,0.02,1.14
+PB,cool stuff,25,22,0.02,1.14
+RN,toys,25,22,0.02,1.14
+RN,housewares,25,22,0.02,1.14
+MS,cool stuff,25,22,0.02,1.14
+SE,furniture decor,25,22,0.02,1.14
+SC,musical instruments,25,22,0.02,1.14
+SC,home appliances,25,22,0.02,1.14
+SC,home construction,25,22,0.02,1.14
+BA,computers,25,21,0.02,1.19
+MS,pet shop,25,21,0.02,1.19
+MG,drinks,25,21,0.02,1.19
+TO,sports leisure,25,21,0.02,1.19
+RS,furniture living room,24,21,0.02,1.14
+MA,housewares,24,21,0.02,1.14
+RS,construction tools lights,24,21,0.02,1.14
+MG,construction tools safety,24,21,0.02,1.14
+PR,home construction,24,21,0.02,1.14
+DF,luggage accessories,24,21,0.02,1.14
+MS,perfumery,24,21,0.02,1.14
+MA,office furniture,23,20,0.02,1.15
+RO,computers accessories,23,20,0.02,1.15
+PE,pet shop,23,20,0.02,1.15
+CE,luggage accessories,23,20,0.02,1.15
+SC,books general interest,23,20,0.02,1.15
+MA,garden tools,23,20,0.02,1.15
+RS,industry commerce and business,23,20,0.02,1.15
+PB,housewares,23,20,0.02,1.15
+DF,small appliances,22,20,0.02,1.1
+GO,office furniture,22,20,0.02,1.1
+RN,sports leisure,22,20,0.02,1.1
+MA,toys,22,20,0.02,1.1
+AL,auto,22,20,0.02,1.1
+PB,auto,22,20,0.02,1.1
+MS,garden tools,22,20,0.02,1.1
+PA,stationery,22,19,0.02,1.16
+MS,electronics,22,19,0.02,1.16
+MS,stationery,22,19,0.02,1.16
+GO,consoles games,22,19,0.02,1.16
+RJ,construction tools lights,21,19,0.02,1.11
+RS,home confort,21,19,0.02,1.11
+TO,telephony,21,19,0.02,1.11
+RS,market place,21,19,0.02,1.11
+SP,dvds blu ray,21,19,0.02,1.11
+MG,agro industry and commerce,21,19,0.02,1.11
+SP,furniture mattress and upholstery,21,19,0.02,1.11
+PI,electronics,21,19,0.02,1.11
+ES,musical instruments,21,19,0.02,1.11
+RN,cool stuff,21,19,0.02,1.11
+RJ,computers,21,18,0.02,1.17
+ES,consoles games,20,18,0.02,1.11
+MA,stationery,20,18,0.02,1.11
+RN,perfumery,20,18,0.02,1.11
+PI,cool stuff,20,18,0.02,1.11
+MG,fashion male clothing,20,18,0.02,1.11
+SE,watches gifts,20,18,0.02,1.11
+MG,air conditioning,20,18,0.02,1.11
+TO,computers accessories,20,18,0.02,1.11
+MT,office furniture,20,18,0.02,1.11
+BA,furniture living room,20,18,0.02,1.11
+PE,office furniture,20,18,0.02,1.11
+AM,health beauty,20,18,0.02,1.11
+SE,auto,20,18,0.02,1.11
+RO,sports leisure,19,17,0.02,1.12
+MG,home appliances 2,19,17,0.02,1.12
+RS,fixed telephony,19,17,0.02,1.12
+MG,computers,19,17,0.02,1.12
+PE,consoles games,19,17,0.02,1.12
+PI,housewares,19,17,0.02,1.12
+RN,auto,19,17,0.02,1.12
+RJ,furniture bedroom,19,17,0.02,1.12
+AL,bed bath table,19,17,0.02,1.12
+PI,furniture decor,19,17,0.02,1.12
+RJ,signaling and security,19,17,0.02,1.12
+PR,construction tools safety,18,16,0.02,1.12
+PR,audio,18,16,0.02,1.12
+RN,garden tools,18,16,0.02,1.12
+MG,fashion underwear beach,18,16,0.02,1.12
+PR,fashion shoes,18,16,0.02,1.12
+DF,office furniture,18,16,0.02,1.12
+BA,small appliances,18,16,0.02,1.12
+PB,stationery,18,16,0.02,1.12
+PB,perfumery,18,16,0.02,1.12
+MG,costruction tools tools,18,16,0.02,1.12
+MG,christmas supplies,18,16,0.02,1.12
+MG,art,18,16,0.02,1.12
+SE,electronics,18,16,0.02,1.12
+TO,furniture decor,17,15,0.02,1.13
+SE,cool stuff,17,15,0.02,1.13
+SP,party supplies,17,15,0.02,1.13
+RS,drinks,17,15,0.02,1.13
+RS,signaling and security,17,15,0.02,1.13
+RJ,fashion underwear beach,17,15,0.02,1.13
+RJ,construction tools safety,17,15,0.02,1.13
+MG,fixed telephony,17,15,0.02,1.13
+MG,industry commerce and business,17,15,0.02,1.13
+RO,telephony,17,15,0.02,1.13
+TO,cool stuff,16,15,0.01,1.07
+SC,construction tools lights,16,15,0.01,1.07
+ES,luggage accessories,16,15,0.01,1.07
+PB,toys,16,15,0.01,1.07
+PI,garden tools,16,14,0.01,1.14
+PR,furniture living room,16,14,0.01,1.14
+SC,home appliances 2,16,14,0.01,1.14
+DF,audio,16,14,0.01,1.14
+SC,food,16,14,0.01,1.14
+RS,audio,16,14,0.01,1.14
+SC,industry commerce and business,16,14,0.01,1.14
+TO,auto,16,14,0.01,1.14
+AM,computers accessories,16,14,0.01,1.14
+SP,arts and craftmanship,16,14,0.01,1.14
+PR,food drink,16,14,0.01,1.14
+DF,books general interest,16,14,0.01,1.14
+SE,bed bath table,15,14,0.01,1.07
+AL,cool stuff,15,14,0.01,1.07
+RO,bed bath table,15,14,0.01,1.07
+RO,toys,15,14,0.01,1.07
+BA,food,15,14,0.01,1.07
+AM,telephony,15,14,0.01,1.07
+PR,market place,15,14,0.01,1.07
+RN,baby,15,14,0.01,1.07
+CE,consoles games,15,14,0.01,1.07
+PR,home appliances 2,15,14,0.01,1.07
+DF,home appliances,15,13,0.01,1.15
+PR,books technical,15,13,0.01,1.15
+PR,drinks,15,13,0.01,1.15
+PI,perfumery,15,13,0.01,1.15
+PB,garden tools,15,13,0.01,1.15
+MT,pet shop,15,13,0.01,1.15
+ES,home appliances,15,13,0.01,1.15
+ES,home construction,15,13,0.01,1.15
+MS,fashion bags accessories,14,13,0.01,1.08
+PA,consoles games,14,13,0.01,1.08
+PR,kitchen dining laundry garden furniture,14,13,0.01,1.08
+PB,fashion bags accessories,14,13,0.01,1.08
+RJ,christmas supplies,14,13,0.01,1.08
+ES,books technical,14,13,0.01,1.08
+SC,market place,14,13,0.01,1.08
+MS,construction tools construction,14,13,0.01,1.08
+SP,home comfort 2,14,13,0.01,1.08
+GO,books general interest,14,13,0.01,1.08
+SC,drinks,14,13,0.01,1.08
+ES,audio,14,13,0.01,1.08
+BA,home construction,14,13,0.01,1.08
+BA,books general interest,14,12,0.01,1.17
+BA,audio,14,12,0.01,1.17
+RO,watches gifts,14,12,0.01,1.17
+TO,toys,13,12,0.01,1.08
+PR,construction tools lights,13,12,0.01,1.08
+TO,garden tools,13,12,0.01,1.08
+TO,housewares,13,12,0.01,1.08
+TO,perfumery,13,12,0.01,1.08
+RS,kitchen dining laundry garden furniture,13,12,0.01,1.08
+AL,electronics,13,12,0.01,1.08
+AL,garden tools,13,12,0.01,1.08
+MA,electronics,13,12,0.01,1.08
+PB,electronics,13,12,0.01,1.08
+GO,home construction,13,12,0.01,1.08
+CE,pet shop,13,12,0.01,1.08
+GO,home appliances,13,12,0.01,1.08
+ES,furniture living room,13,12,0.01,1.08
+RN,pet shop,13,12,0.01,1.08
+ES,food,13,12,0.01,1.08
+RS,air conditioning,13,12,0.01,1.08
+RN,stationery,13,12,0.01,1.08
+PR,home confort,13,12,0.01,1.08
+PE,luggage accessories,13,12,0.01,1.08
+MT,fashion bags accessories,13,12,0.01,1.08
+SC,christmas supplies,13,11,0.01,1.18
+SC,construction tools safety,13,11,0.01,1.18
+RO,cool stuff,13,11,0.01,1.18
+RO,furniture decor,13,11,0.01,1.18
+GO,market place,12,11,0.01,1.09
+PI,baby,12,11,0.01,1.09
+PE,construction tools construction,12,11,0.01,1.09
+BA,fixed telephony,12,11,0.01,1.09
+SC,furniture living room,12,11,0.01,1.09
+RJ,dvds blu ray,12,11,0.01,1.09
+RS,cine photo,12,11,0.01,1.09
+PB,baby,12,11,0.01,1.09
+AC,furniture decor,12,11,0.01,1.09
+RS,home appliances 2,12,11,0.01,1.09
+AL,toys,12,10,0.01,1.2
+SP,fashion sport,12,10,0.01,1.2
+SP,music,12,10,0.01,1.2
+PR,air conditioning,12,10,0.01,1.2
+PR,agro industry and commerce,12,10,0.01,1.2
+AL,perfumery,12,10,0.01,1.2
+ES,construction tools construction,12,10,0.01,1.2
+GO,luggage accessories,12,10,0.01,1.2
+RN,electronics,12,10,0.01,1.2
+AM,sports leisure,12,10,0.01,1.2
+PR,fashion male clothing,12,10,0.01,1.2
+RS,books technical,12,10,0.01,1.2
+RS,food,12,10,0.01,1.2
+SP,flowers,11,10,0.01,1.1
+ES,home confort,11,10,0.01,1.1
+SC,home confort,11,10,0.01,1.1
+PR,industry commerce and business,11,10,0.01,1.1
+PA,pet shop,11,10,0.01,1.1
+PE,musical instruments,11,10,0.01,1.1
+ES,books general interest,11,10,0.01,1.1
+DF,construction tools construction,11,10,0.01,1.1
+BA,home confort,11,10,0.01,1.1
+SE,toys,11,10,0.01,1.1
+GO,construction tools construction,11,10,0.01,1.1
+MG,signaling and security,11,10,0.01,1.1
+BA,christmas supplies,10,10,0.01,1.0
+BA,books technical,10,10,0.01,1.0
+RJ,tablets printing image,10,10,0.01,1.0
+MG,tablets printing image,10,9,0.01,1.11
+MG,small appliances home oven and coffee,10,9,0.01,1.11
+TO,bed bath table,10,9,0.01,1.11
+GO,furniture living room,10,9,0.01,1.11
+PA,musical instruments,10,9,0.01,1.11
+RO,auto,10,9,0.01,1.11
+RO,baby,10,9,0.01,1.11
+MA,musical instruments,10,9,0.01,1.11
+GO,small appliances,10,9,0.01,1.11
+PI,stationery,10,9,0.01,1.11
+RS,fashion shoes,10,9,0.01,1.11
+SC,audio,10,9,0.01,1.11
+AP,health beauty,10,9,0.01,1.11
+CE,construction tools construction,10,9,0.01,1.11
+SE,housewares,10,9,0.01,1.11
+PE,fashion shoes,10,9,0.01,1.11
+DF,musical instruments,10,9,0.01,1.11
+BA,art,10,9,0.01,1.11
+PB,office furniture,10,9,0.01,1.11
+SC,signaling and security,10,8,0.01,1.25
+RJ,fashion male clothing,10,8,0.01,1.25
+MA,pet shop,10,8,0.01,1.25
+AM,watches gifts,10,8,0.01,1.25
+AC,sports leisure,9,8,0.01,1.12
+PE,computers,9,8,0.01,1.12
+SC,books technical,9,8,0.01,1.12
+MS,construction tools lights,9,8,0.01,1.12
+RS,agro industry and commerce,9,8,0.01,1.12
+MA,market place,9,8,0.01,1.12
+RO,fashion bags accessories,9,8,0.01,1.12
+MA,luggage accessories,9,8,0.01,1.12
+ES,fixed telephony,9,8,0.01,1.12
+MS,luggage accessories,9,8,0.01,1.12
+GO,musical instruments,9,8,0.01,1.12
+PA,home appliances,9,8,0.01,1.12
+DF,food,9,8,0.01,1.12
+MT,consoles games,9,8,0.01,1.12
+PA,small appliances,9,8,0.01,1.12
+ES,construction tools lights,9,8,0.01,1.12
+RJ,costruction tools tools,9,8,0.01,1.12
+AL,housewares,9,8,0.01,1.12
+AC,computers accessories,8,8,0.01,1.0
+AM,bed bath table,8,8,0.01,1.0
+PI,office furniture,8,8,0.01,1.0
+PR,art,8,8,0.01,1.0
+RS,fashion male clothing,8,8,0.01,1.0
+RO,pet shop,8,8,0.01,1.0
+RO,stationery,8,8,0.01,1.0
+RS,costruction tools tools,8,7,0.01,1.14
+PR,costruction tools tools,8,7,0.01,1.14
+SE,baby,8,7,0.01,1.14
+SE,fashion bags accessories,8,7,0.01,1.14
+BA,food drink,8,7,0.01,1.14
+BA,fashion male clothing,8,7,0.01,1.14
+CE,home construction,8,7,0.01,1.14
+SC,fashion underwear beach,8,7,0.01,1.14
+BA,costruction tools garden,8,7,0.01,1.14
+RJ,flowers,8,7,0.01,1.14
+AP,watches gifts,8,7,0.01,1.14
+PE,food,8,7,0.01,1.14
+PE,home confort,8,7,0.01,1.14
+MT,small appliances,8,7,0.01,1.14
+MT,luggage accessories,8,7,0.01,1.14
+RJ,music,8,7,0.01,1.14
+RJ,furniture mattress and upholstery,8,7,0.01,1.14
+CE,costruction tools garden,8,7,0.01,1.14
+MT,home appliances,8,7,0.01,1.14
+AL,stationery,8,7,0.01,1.14
+PI,consoles games,8,7,0.01,1.14
+GO,home confort,8,7,0.01,1.14
+RS,computers,8,7,0.01,1.14
+DF,christmas supplies,8,7,0.01,1.14
+PB,pet shop,8,7,0.01,1.14
+RS,art,8,7,0.01,1.14
+PB,construction tools safety,8,7,0.01,1.14
+RR,sports leisure,8,7,0.01,1.14
+AP,computers accessories,8,7,0.01,1.14
+PR,small appliances home oven and coffee,8,7,0.01,1.14
+TO,fashion bags accessories,8,7,0.01,1.14
+RN,fashion bags accessories,8,7,0.01,1.14
+RN,construction tools construction,8,7,0.01,1.14
+SP,kitchenware and food preparers,8,7,0.01,1.14
+RO,garden tools,7,7,0.01,1.0
+AL,consoles games,7,7,0.01,1.0
+GO,drinks,7,7,0.01,1.0
+GO,costruction tools tools,7,6,0.01,1.17
+MS,home construction,7,6,0.01,1.17
+AL,baby,7,6,0.01,1.17
+TO,electronics,7,6,0.01,1.17
+TO,baby,7,6,0.01,1.17
+ES,food drink,7,6,0.01,1.17
+PB,luggage accessories,7,6,0.01,1.17
+GO,industry commerce and business,7,6,0.01,1.17
+CE,books general interest,7,6,0.01,1.17
+AP,sports leisure,7,6,0.01,1.17
+BA,fashion shoes,7,6,0.01,1.17
+PA,luggage accessories,7,6,0.01,1.17
+DF,computers,7,6,0.01,1.17
+PB,consoles games,7,6,0.01,1.17
+PR,music,7,6,0.01,1.17
+ES,market place,7,6,0.01,1.17
+CE,small appliances,7,6,0.01,1.17
+CE,musical instruments,7,6,0.01,1.17
+SC,kitchen dining laundry garden furniture,7,6,0.01,1.17
+AM,toys,7,6,0.01,1.17
+GO,food,7,6,0.01,1.17
+DF,home construction,7,6,0.01,1.17
+DF,home confort,7,6,0.01,1.17
+AC,health beauty,7,6,0.01,1.17
+DF,furniture living room,7,6,0.01,1.17
+AL,office furniture,7,6,0.01,1.17
+MS,musical instruments,7,6,0.01,1.17
+GO,fashion shoes,7,6,0.01,1.17
+GO,construction tools safety,7,6,0.01,1.17
+GO,air conditioning,7,6,0.01,1.17
+GO,audio,7,6,0.01,1.17
+MG,fashio female clothing,7,6,0.01,1.17
+MT,food,7,6,0.01,1.17
+DF,fashion shoes,7,6,0.01,1.17
+PE,books general interest,7,6,0.01,1.17
+SC,fixed telephony,7,6,0.01,1.17
+SC,fashion shoes,7,6,0.01,1.17
+PE,home construction,7,6,0.01,1.17
+SE,perfumery,7,6,0.01,1.17
+PI,pet shop,7,6,0.01,1.17
+MT,home construction,7,6,0.01,1.17
+PR,furniture bedroom,7,6,0.01,1.17
+MT,construction tools construction,7,6,0.01,1.17
+BA,construction tools lights,6,6,0.01,1.0
+MG,music,6,6,0.01,1.0
+TO,office furniture,6,6,0.01,1.0
+RN,consoles games,6,6,0.01,1.0
+GO,signaling and security,6,6,0.01,1.0
+MG,arts and craftmanship,6,6,0.01,1.0
+RO,electronics,6,6,0.01,1.0
+PI,musical instruments,6,6,0.01,1.0
+RJ,small appliances home oven and coffee,6,6,0.01,1.0
+CE,home appliances,6,6,0.01,1.0
+BA,construction tools safety,6,6,0.01,1.0
+SP,la cuisine,6,6,0.01,1.0
+MA,consoles games,6,6,0.01,1.0
+MT,musical instruments,6,6,0.01,1.0
+PE,costruction tools garden,6,6,0.01,1.0
+MT,signaling and security,6,6,0.01,1.0
+ES,air conditioning,6,5,0.01,1.2
+BA,air conditioning,6,5,0.01,1.2
+RS,food drink,6,5,0.01,1.2
+RS,construction tools safety,6,5,0.01,1.2
+RJ,party supplies,6,5,0.01,1.2
+RO,perfumery,6,5,0.01,1.2
+RO,office furniture,6,5,0.01,1.2
+RS,costruction tools garden,6,5,0.01,1.2
+RO,luggage accessories,6,5,0.01,1.2
+AL,luggage accessories,6,5,0.01,1.2
+BA,tablets printing image,6,5,0.01,1.2
+PA,christmas supplies,6,5,0.01,1.2
+SE,consoles games,6,5,0.01,1.2
+PB,signaling and security,6,5,0.01,1.2
+RS,christmas supplies,6,5,0.01,1.2
+CE,agro industry and commerce,6,5,0.01,1.2
+BA,signaling and security,6,5,0.01,1.2
+RR,health beauty,6,5,0.01,1.2
+CE,computers,6,5,0.01,1.2
+ES,signaling and security,6,5,0.01,1.2
+DF,art,6,5,0.01,1.2
+MG,books imported,6,5,0.01,1.2
+MS,consoles games,6,5,0.01,1.2
+AP,bed bath table,6,5,0.01,1.2
+AM,stationery,6,5,0.01,1.2
+GO,fixed telephony,6,5,0.01,1.2
+PR,costruction tools garden,6,5,0.01,1.2
+AP,fixed telephony,6,5,0.01,1.2
+PR,fashion underwear beach,6,5,0.01,1.2
+DF,industry commerce and business,6,5,0.01,1.2
+SP,cds dvds musicals,6,5,0.01,1.2
+SC,art,6,5,0.01,1.2
+PR,fixed telephony,6,5,0.01,1.2
+AM,auto,6,5,0.01,1.2
+PR,christmas supplies,6,5,0.01,1.2
+MS,home appliances,6,5,0.01,1.2
+MS,small appliances,6,5,0.01,1.2
+MG,furniture bedroom,6,5,0.01,1.2
+AC,telephony,5,5,0.0,1.0
+MA,computers,5,5,0.0,1.0
+RO,housewares,5,5,0.0,1.0
+AL,audio,5,5,0.0,1.0
+GO,fashion underwear beach,5,5,0.0,1.0
+PB,books general interest,5,5,0.0,1.0
+RN,office furniture,5,5,0.0,1.0
+CE,food,5,5,0.0,1.0
+RS,cds dvds musicals,5,5,0.0,1.0
+PB,fixed telephony,5,5,0.0,1.0
+GO,home comfort 2,5,5,0.0,1.0
+PB,home construction,5,5,0.0,1.0
+ES,fashion shoes,5,5,0.0,1.0
+RJ,cine photo,5,5,0.0,1.0
+RJ,books imported,5,5,0.0,1.0
+PA,market place,5,5,0.0,1.0
+BA,costruction tools tools,5,5,0.0,1.0
+ES,costruction tools garden,5,5,0.0,1.0
+DF,books technical,5,5,0.0,1.0
+BA,fashion underwear beach,5,5,0.0,1.0
+AM,garden tools,5,5,0.0,1.0
+CE,audio,5,4,0.0,1.25
+BA,industry commerce and business,5,4,0.0,1.25
+CE,construction tools safety,5,4,0.0,1.25
+BA,agro industry and commerce,5,4,0.0,1.25
+PE,food drink,5,4,0.0,1.25
+PE,home appliances,5,4,0.0,1.25
+BA,drinks,5,4,0.0,1.25
+PE,agro industry and commerce,5,4,0.0,1.25
+SC,computers,5,4,0.0,1.25
+SC,costruction tools garden,5,4,0.0,1.25
+SC,costruction tools tools,5,4,0.0,1.25
+DF,drinks,5,4,0.0,1.25
+DF,costruction tools garden,5,4,0.0,1.25
+MT,books technical,5,4,0.0,1.25
+PA,books general interest,5,4,0.0,1.25
+GO,agro industry and commerce,5,4,0.0,1.25
+PR,dvds blu ray,5,4,0.0,1.25
+MT,market place,5,4,0.0,1.25
+MG,flowers,5,4,0.0,1.25
+DF,kitchen dining laundry garden furniture,5,4,0.0,1.25
+BA,home appliances 2,5,4,0.0,1.25
+AM,baby,5,4,0.0,1.25
+PI,luggage accessories,5,4,0.0,1.25
+GO,costruction tools garden,5,4,0.0,1.25
+MT,air conditioning,5,4,0.0,1.25
+GO,computers,5,4,0.0,1.25
+GO,construction tools lights,5,4,0.0,1.25
+MG,party supplies,5,4,0.0,1.25
+MG,cine photo,5,4,0.0,1.25
+MA,home construction,5,4,0.0,1.25
+DF,home appliances 2,5,4,0.0,1.25
+TO,pet shop,4,4,0.0,1.0
+MS,drinks,4,4,0.0,1.0
+RO,agro industry and commerce,4,4,0.0,1.0
+AC,watches gifts,4,4,0.0,1.0
+TO,consoles games,4,4,0.0,1.0
+AP,electronics,4,4,0.0,1.0
+PI,audio,4,4,0.0,1.0
+RS,dvds blu ray,4,4,0.0,1.0
+AC,bed bath table,4,4,0.0,1.0
+PI,home construction,4,4,0.0,1.0
+MS,books technical,4,4,0.0,1.0
+PI,fashion bags accessories,4,4,0.0,1.0
+SC,air conditioning,4,4,0.0,1.0
+MA,furniture living room,4,4,0.0,1.0
+PI,costruction tools garden,4,4,0.0,1.0
+PI,home appliances,4,4,0.0,1.0
+PR,computers,4,4,0.0,1.0
+PA,computers,4,4,0.0,1.0
+BA,furniture bedroom,4,4,0.0,1.0
+CE,fixed telephony,4,4,0.0,1.0
+CE,food drink,4,4,0.0,1.0
+AM,pet shop,4,4,0.0,1.0
+PE,christmas supplies,4,4,0.0,1.0
+PE,books technical,4,4,0.0,1.0
+ES,costruction tools tools,4,4,0.0,1.0
+PB,musical instruments,4,4,0.0,1.0
+PE,audio,4,4,0.0,1.0
+DF,signaling and security,4,4,0.0,1.0
+AP,housewares,4,4,0.0,1.0
+DF,construction tools lights,4,4,0.0,1.0
+PE,market place,4,4,0.0,1.0
+PE,kitchen dining laundry garden furniture,4,4,0.0,1.0
+AP,telephony,4,4,0.0,1.0
+SC,cine photo,4,4,0.0,1.0
+DF,food drink,4,4,0.0,1.0
+DF,market place,4,4,0.0,1.0
+RS,party supplies,4,4,0.0,1.0
+MT,audio,4,4,0.0,1.0
+AM,cool stuff,4,4,0.0,1.0
+MG,dvds blu ray,4,4,0.0,1.0
+RR,computers accessories,4,3,0.0,1.33
+MS,home appliances 2,4,3,0.0,1.33
+SP,fashion childrens clothes,4,3,0.0,1.33
+MS,office furniture,4,3,0.0,1.33
+RN,food drink,4,3,0.0,1.33
+MS,food,4,3,0.0,1.33
+AC,housewares,4,3,0.0,1.33
+AC,electronics,4,3,0.0,1.33
+AC,auto,4,3,0.0,1.33
+AL,fashion bags accessories,4,3,0.0,1.33
+RO,construction tools construction,4,3,0.0,1.33
+AL,fixed telephony,4,3,0.0,1.33
+MS,fashion shoes,4,3,0.0,1.33
+MT,construction tools safety,4,3,0.0,1.33
+AM,home construction,4,3,0.0,1.33
+AM,furniture decor,4,3,0.0,1.33
+AM,electronics,4,3,0.0,1.33
+PA,tablets printing image,4,3,0.0,1.33
+SC,small appliances home oven and coffee,4,3,0.0,1.33
+PA,fashion shoes,4,3,0.0,1.33
+PA,fashion sport,4,3,0.0,1.33
+RR,telephony,4,3,0.0,1.33
+CE,market place,4,3,0.0,1.33
+GO,kitchen dining laundry garden furniture,4,3,0.0,1.33
+PB,computers,4,3,0.0,1.33
+PB,small appliances,4,3,0.0,1.33
+BA,market place,4,3,0.0,1.33
+CE,home confort,4,3,0.0,1.33
+RR,furniture decor,4,3,0.0,1.33
+RJ,home comfort 2,4,3,0.0,1.33
+AM,housewares,4,3,0.0,1.33
+ES,tablets printing image,4,3,0.0,1.33
+MT,home confort,4,3,0.0,1.33
+SC,agro industry and commerce,3,3,0.0,1.0
+PE,small appliances,3,3,0.0,1.0
+PI,agro industry and commerce,3,3,0.0,1.0
+PI,air conditioning,3,3,0.0,1.0
+AC,perfumery,3,3,0.0,1.0
+AC,baby,3,3,0.0,1.0
+BA,cine photo,3,3,0.0,1.0
+MS,agro industry and commerce,3,3,0.0,1.0
+PI,tablets printing image,3,3,0.0,1.0
+RS,la cuisine,3,3,0.0,1.0
+PI,industry commerce and business,3,3,0.0,1.0
+PI,home confort,3,3,0.0,1.0
+AC,toys,3,3,0.0,1.0
+MA,home appliances,3,3,0.0,1.0
+TO,stationery,3,3,0.0,1.0
+MS,dvds blu ray,3,3,0.0,1.0
+PI,computers,3,3,0.0,1.0
+RS,fashion underwear beach,3,3,0.0,1.0
+RS,flowers,3,3,0.0,1.0
+RN,small appliances,3,3,0.0,1.0
+PB,furniture living room,3,3,0.0,1.0
+PB,industry commerce and business,3,3,0.0,1.0
+ES,computers,3,3,0.0,1.0
+GO,home appliances 2,3,3,0.0,1.0
+DF,air conditioning,3,3,0.0,1.0
+AP,toys,3,3,0.0,1.0
+AP,furniture decor,3,3,0.0,1.0
+MG,furniture mattress and upholstery,3,3,0.0,1.0
+ES,home appliances 2,3,3,0.0,1.0
+ES,small appliances,3,3,0.0,1.0
+PA,fashion underwear beach,3,3,0.0,1.0
+CE,fashion shoes,3,3,0.0,1.0
+SE,luggage accessories,3,3,0.0,1.0
+SE,industry commerce and business,3,3,0.0,1.0
+SE,home construction,3,3,0.0,1.0
+SE,furniture living room,3,3,0.0,1.0
+PR,tablets printing image,3,3,0.0,1.0
+RR,home appliances,3,3,0.0,1.0
+MG,home comfort 2,3,3,0.0,1.0
+PR,signaling and security,3,3,0.0,1.0
+AP,auto,3,3,0.0,1.0
+PB,market place,3,3,0.0,1.0
+ES,fashion male clothing,3,3,0.0,1.0
+PA,signaling and security,3,3,0.0,1.0
+SC,furniture bedroom,3,3,0.0,1.0
+SC,food drink,3,3,0.0,1.0
+DF,construction tools safety,3,3,0.0,1.0
+RS,small appliances home oven and coffee,3,3,0.0,1.0
+DF,fixed telephony,3,3,0.0,1.0
+DF,dvds blu ray,3,3,0.0,1.0
+ES,drinks,3,3,0.0,1.0
+PE,construction tools safety,3,3,0.0,1.0
+PE,furniture living room,3,3,0.0,1.0
+PE,fixed telephony,3,3,0.0,1.0
+SC,fashion sport,3,3,0.0,1.0
+SE,small appliances,3,3,0.0,1.0
+SE,pet shop,3,3,0.0,1.0
+SE,office furniture,3,3,0.0,1.0
+SE,musical instruments,3,3,0.0,1.0
+PA,cine photo,3,3,0.0,1.0
+AL,home construction,3,3,0.0,1.0
+MT,fashion shoes,3,3,0.0,1.0
+MT,furniture living room,3,3,0.0,1.0
+BA,kitchen dining laundry garden furniture,3,3,0.0,1.0
+GO,art,3,3,0.0,1.0
+CE,drinks,3,3,0.0,1.0
+BA,small appliances home oven and coffee,3,2,0.0,1.5
+SE,stationery,3,2,0.0,1.5
+SE,market place,3,2,0.0,1.5
+CE,books technical,3,2,0.0,1.5
+CE,home appliances 2,3,2,0.0,1.5
+MT,kitchen dining laundry garden furniture,3,2,0.0,1.5
+MT,industry commerce and business,3,2,0.0,1.5
+GO,christmas supplies,3,2,0.0,1.5
+GO,books technical,3,2,0.0,1.5
+AM,luggage accessories,3,2,0.0,1.5
+MS,furniture living room,3,2,0.0,1.5
+AL,market place,3,2,0.0,1.5
+AL,pet shop,3,2,0.0,1.5
+RN,furniture bedroom,3,2,0.0,1.5
+GO,fashion male clothing,3,2,0.0,1.5
+MT,construction tools lights,3,2,0.0,1.5
+RR,bed bath table,3,2,0.0,1.5
+AL,furniture living room,3,2,0.0,1.5
+RN,costruction tools garden,3,2,0.0,1.5
+AL,fashion shoes,3,2,0.0,1.5
+MS,fashion underwear beach,3,2,0.0,1.5
+MA,books technical,3,2,0.0,1.5
+MA,audio,3,2,0.0,1.5
+MA,books general interest,3,2,0.0,1.5
+TO,home appliances 2,3,2,0.0,1.5
+SP,pc gamer,3,2,0.0,1.5
+AC,luggage accessories,2,2,0.0,1.0
+AC,books general interest,2,2,0.0,1.0
+MA,home confort,2,2,0.0,1.0
+AC,stationery,2,2,0.0,1.0
+MT,computers,2,2,0.0,1.0
+AL,home appliances 2,2,2,0.0,1.0
+MG,fashion sport,2,2,0.0,1.0
+RN,home appliances,2,2,0.0,1.0
+RN,home appliances 2,2,2,0.0,1.0
+RN,kitchen dining laundry garden furniture,2,2,0.0,1.0
+RO,costruction tools garden,2,2,0.0,1.0
+AL,computers,2,2,0.0,1.0
+AL,kitchen dining laundry garden furniture,2,2,0.0,1.0
+AL,books general interest,2,2,0.0,1.0
+MS,tablets printing image,2,2,0.0,1.0
+MT,agro industry and commerce,2,2,0.0,1.0
+MT,furniture bedroom,2,2,0.0,1.0
+MT,home appliances 2,2,2,0.0,1.0
+AM,consoles games,2,2,0.0,1.0
+AM,costruction tools garden,2,2,0.0,1.0
+AL,home appliances,2,2,0.0,1.0
+GO,fashio female clothing,2,2,0.0,1.0
+MT,books general interest,2,2,0.0,1.0
+ES,party supplies,2,2,0.0,1.0
+PA,construction tools construction,2,2,0.0,1.0
+AM,home appliances,2,2,0.0,1.0
+RN,food,2,2,0.0,1.0
+RO,computers,2,2,0.0,1.0
+MT,tablets printing image,2,2,0.0,1.0
+PA,agro industry and commerce,2,2,0.0,1.0
+PA,art,2,2,0.0,1.0
+PA,fashion male clothing,2,2,0.0,1.0
+PA,home construction,2,2,0.0,1.0
+SE,signaling and security,2,2,0.0,1.0
+PA,books imported,2,2,0.0,1.0
+PA,books technical,2,2,0.0,1.0
+ES,industry commerce and business,2,2,0.0,1.0
+SC,party supplies,2,2,0.0,1.0
+RO,home appliances,2,2,0.0,1.0
+SE,fixed telephony,2,2,0.0,1.0
+SE,furniture bedroom,2,2,0.0,1.0
+SC,furniture mattress and upholstery,2,2,0.0,1.0
+SC,la cuisine,2,2,0.0,1.0
+PB,fashio female clothing,2,2,0.0,1.0
+ES,flowers,2,2,0.0,1.0
+MA,small appliances,2,2,0.0,1.0
+AM,office furniture,2,2,0.0,1.0
+AM,perfumery,2,2,0.0,1.0
+PB,fashion shoes,2,2,0.0,1.0
+PB,food,2,2,0.0,1.0
+PB,home appliances,2,2,0.0,1.0
+AP,art,2,2,0.0,1.0
+PE,construction tools lights,2,2,0.0,1.0
+PE,dvds blu ray,2,2,0.0,1.0
+PE,fashion underwear beach,2,2,0.0,1.0
+PE,flowers,2,2,0.0,1.0
+SC,dvds blu ray,2,2,0.0,1.0
+RR,electronics,2,2,0.0,1.0
+RR,garden tools,2,2,0.0,1.0
+BA,fashion sport,2,2,0.0,1.0
+RJ,cds dvds musicals,2,2,0.0,1.0
+RR,cool stuff,2,2,0.0,1.0
+RJ,pc gamer,2,2,0.0,1.0
+SC,fashion male clothing,2,2,0.0,1.0
+ES,christmas supplies,2,2,0.0,1.0
+MS,christmas supplies,2,2,0.0,1.0
+PI,art,2,2,0.0,1.0
+PI,books technical,2,2,0.0,1.0
+AP,garden tools,2,2,0.0,1.0
+AP,musical instruments,2,2,0.0,1.0
+AP,pet shop,2,2,0.0,1.0
+RS,books imported,2,2,0.0,1.0
+PR,party supplies,2,2,0.0,1.0
+CE,air conditioning,2,2,0.0,1.0
+RJ,diapers and hygiene,2,2,0.0,1.0
+RJ,fashion sport,2,2,0.0,1.0
+CE,christmas supplies,2,2,0.0,1.0
+AP,stationery,2,2,0.0,1.0
+PE,home appliances 2,2,2,0.0,1.0
+PE,industry commerce and business,2,2,0.0,1.0
+ES,agro industry and commerce,2,2,0.0,1.0
+PI,fixed telephony,2,2,0.0,1.0
+PI,furniture living room,2,2,0.0,1.0
+PR,fashio female clothing,2,2,0.0,1.0
+MS,books general interest,2,2,0.0,1.0
+PI,market place,2,2,0.0,1.0
+CE,furniture living room,2,2,0.0,1.0
+GO,party supplies,2,2,0.0,1.0
+CE,industry commerce and business,2,2,0.0,1.0
+AP,cool stuff,2,2,0.0,1.0
+PE,signaling and security,2,2,0.0,1.0
+PE,tablets printing image,2,1,0.0,2.0
+MG,kitchenware and food preparers,2,1,0.0,2.0
+MG,la cuisine,2,1,0.0,2.0
+MA,food drink,2,1,0.0,2.0
+DF,fashion underwear beach,2,1,0.0,2.0
+PR,books imported,2,1,0.0,2.0
+PR,cine photo,2,1,0.0,2.0
+PR,diapers and hygiene,2,1,0.0,2.0
+TO,fixed telephony,2,1,0.0,2.0
+TO,furniture living room,2,1,0.0,2.0
+RN,market place,2,1,0.0,2.0
+RN,musical instruments,2,1,0.0,2.0
+RO,art,2,1,0.0,2.0
+RO,christmas supplies,2,1,0.0,2.0
+TO,books technical,2,1,0.0,2.0
+TO,construction tools lights,2,1,0.0,2.0
+MS,construction tools safety,2,1,0.0,2.0
+MS,costruction tools garden,2,1,0.0,2.0
+TO,luggage accessories,2,1,0.0,2.0
+MS,market place,2,1,0.0,2.0
+AC,garden tools,2,1,0.0,2.0
+AC,fashion shoes,2,1,0.0,2.0
+AC,cool stuff,1,1,0.0,1.0
+AC,fashion bags accessories,1,1,0.0,1.0
+AC,furniture living room,1,1,0.0,1.0
+TO,home confort,1,1,0.0,1.0
+TO,home construction,1,1,0.0,1.0
+MS,industry commerce and business,1,1,0.0,1.0
+MS,home confort,1,1,0.0,1.0
+MS,furniture bedroom,1,1,0.0,1.0
+MS,food drink,1,1,0.0,1.0
+MS,flowers,1,1,0.0,1.0
+MS,fixed telephony,1,1,0.0,1.0
+TO,kitchen dining laundry garden furniture,1,1,0.0,1.0
+TO,computers,1,1,0.0,1.0
+AL,air conditioning,1,1,0.0,1.0
+AL,agro industry and commerce,1,1,0.0,1.0
+RO,books general interest,1,1,0.0,1.0
+RN,signaling and security,1,1,0.0,1.0
+RN,luggage accessories,1,1,0.0,1.0
+DF,music,1,1,0.0,1.0
+PR,home comfort 2,1,1,0.0,1.0
+DF,furniture bedroom,1,1,0.0,1.0
+PI,fashion underwear beach,1,1,0.0,1.0
+PI,fashion shoes,1,1,0.0,1.0
+PI,dvds blu ray,1,1,0.0,1.0
+PI,drinks,1,1,0.0,1.0
+RS,furniture bedroom,1,1,0.0,1.0
+RS,fashion sport,1,1,0.0,1.0
+MA,fixed telephony,1,1,0.0,1.0
+MA,fashion sport,1,1,0.0,1.0
+MA,fashion shoes,1,1,0.0,1.0
+MA,fashion male clothing,1,1,0.0,1.0
+MA,construction tools lights,1,1,0.0,1.0
+MA,construction tools construction,1,1,0.0,1.0
+DF,furniture mattress and upholstery,1,1,0.0,1.0
+PE,small appliances home oven and coffee,1,1,0.0,1.0
+PE,pc gamer,1,1,0.0,1.0
+SC,arts and craftmanship,1,1,0.0,1.0
+RS,tablets printing image,1,1,0.0,1.0
+RS,pc gamer,1,1,0.0,1.0
+RS,music,1,1,0.0,1.0
+RR,office furniture,1,1,0.0,1.0
+CE,kitchen dining laundry garden furniture,1,1,0.0,1.0
+GO,music,1,1,0.0,1.0
+GO,la cuisine,1,1,0.0,1.0
+PI,party supplies,1,1,0.0,1.0
+MS,audio,1,1,0.0,1.0
+MS,art,1,1,0.0,1.0
+MG,pc gamer,1,1,0.0,1.0
+BA,books imported,1,1,0.0,1.0
+PR,fashion sport,1,1,0.0,1.0
+RS,kitchenware and food preparers,1,1,0.0,1.0
+RS,home comfort 2,1,1,0.0,1.0
+PI,home appliances 2,1,1,0.0,1.0
+PI,food drink,1,1,0.0,1.0
+PI,food,1,1,0.0,1.0
+ES,art,1,1,0.0,1.0
+DF,small appliances home oven and coffee,1,1,0.0,1.0
+DF,security and services,1,1,0.0,1.0
+DF,party supplies,1,1,0.0,1.0
+SC,books imported,1,1,0.0,1.0
+RJ,fashion childrens clothes,1,1,0.0,1.0
+RJ,fashio female clothing,1,1,0.0,1.0
+RJ,kitchenware and food preparers,1,1,0.0,1.0
+DF,fashion sport,1,1,0.0,1.0
+DF,fashio female clothing,1,1,0.0,1.0
+DF,cine photo,1,1,0.0,1.0
+DF,arts and craftmanship,1,1,0.0,1.0
+RR,watches gifts,1,1,0.0,1.0
+RR,stationery,1,1,0.0,1.0
+RR,perfumery,1,1,0.0,1.0
+PI,construction tools lights,1,1,0.0,1.0
+PI,books general interest,1,1,0.0,1.0
+GO,furniture mattress and upholstery,1,1,0.0,1.0
+ES,cine photo,1,1,0.0,1.0
+PE,cine photo,1,1,0.0,1.0
+PE,art,1,1,0.0,1.0
+PE,air conditioning,1,1,0.0,1.0
+SC,fashion childrens clothes,1,1,0.0,1.0
+RR,baby,1,1,0.0,1.0
+RR,auto,1,1,0.0,1.0
+RO,small appliances home oven and coffee,1,1,0.0,1.0
+RO,small appliances,1,1,0.0,1.0
+RO,security and services,1,1,0.0,1.0
+CE,fashion male clothing,1,1,0.0,1.0
+CE,tablets printing image,1,1,0.0,1.0
+CE,music,1,1,0.0,1.0
+BA,fashion childrens clothes,1,1,0.0,1.0
+BA,fashio female clothing,1,1,0.0,1.0
+SC,fashio female clothing,1,1,0.0,1.0
+PE,costruction tools tools,1,1,0.0,1.0
+AP,agro industry and commerce,1,1,0.0,1.0
+AM,tablets printing image,1,1,0.0,1.0
+GO,furniture bedroom,1,1,0.0,1.0
+GO,flowers,1,1,0.0,1.0
+PB,kitchen dining laundry garden furniture,1,1,0.0,1.0
+PB,home confort,1,1,0.0,1.0
+MA,tablets printing image,1,1,0.0,1.0
+MA,industry commerce and business,1,1,0.0,1.0
+MS,computers,1,1,0.0,1.0
+ES,fashion underwear beach,1,1,0.0,1.0
+ES,fashio female clothing,1,1,0.0,1.0
+PB,diapers and hygiene,1,1,0.0,1.0
+PB,costruction tools tools,1,1,0.0,1.0
+PB,costruction tools garden,1,1,0.0,1.0
+PB,construction tools construction,1,1,0.0,1.0
+PB,audio,1,1,0.0,1.0
+PB,art,1,1,0.0,1.0
+PB,air conditioning,1,1,0.0,1.0
+PB,agro industry and commerce,1,1,0.0,1.0
+AP,consoles games,1,1,0.0,1.0
+AP,computers,1,1,0.0,1.0
+PA,drinks,1,1,0.0,1.0
+PA,costruction tools tools,1,1,0.0,1.0
+PA,costruction tools garden,1,1,0.0,1.0
+PA,construction tools lights,1,1,0.0,1.0
+SE,food drink,1,1,0.0,1.0
+SE,food,1,1,0.0,1.0
+SE,construction tools safety,1,1,0.0,1.0
+RO,industry commerce and business,1,1,0.0,1.0
+RO,home confort,1,1,0.0,1.0
+RO,furniture living room,1,1,0.0,1.0
+RO,food,1,1,0.0,1.0
+RO,fashion shoes,1,1,0.0,1.0
+RO,dvds blu ray,1,1,0.0,1.0
+CE,diapers and hygiene,1,1,0.0,1.0
+CE,costruction tools tools,1,1,0.0,1.0
+CE,construction tools lights,1,1,0.0,1.0
+RN,christmas supplies,1,1,0.0,1.0
+RN,books technical,1,1,0.0,1.0
+RN,audio,1,1,0.0,1.0
+RN,art,1,1,0.0,1.0
+BA,kitchenware and food preparers,1,1,0.0,1.0
+BA,home comfort 2,1,1,0.0,1.0
+SE,construction tools lights,1,1,0.0,1.0
+SE,construction tools construction,1,1,0.0,1.0
+SE,computers,1,1,0.0,1.0
+SE,books imported,1,1,0.0,1.0
+SE,books general interest,1,1,0.0,1.0
+ES,furniture bedroom,1,1,0.0,1.0
+ES,kitchen dining laundry garden furniture,1,1,0.0,1.0
+ES,home comfort 2,1,1,0.0,1.0
+SE,home confort,1,1,0.0,1.0
+SE,home appliances 2,1,1,0.0,1.0
+SE,home appliances,1,1,0.0,1.0
+PA,kitchenware and food preparers,1,1,0.0,1.0
+PA,kitchen dining laundry garden furniture,1,1,0.0,1.0
+PA,furniture living room,1,1,0.0,1.0
+PA,food drink,1,1,0.0,1.0
+PA,fixed telephony,1,1,0.0,1.0
+PA,audio,1,1,0.0,1.0
+MT,small appliances home oven and coffee,1,1,0.0,1.0
+AM,musical instruments,1,1,0.0,1.0
+AM,music,1,1,0.0,1.0
+AM,market place,1,1,0.0,1.0
+AM,home appliances 2,1,1,0.0,1.0
+MA,cine photo,1,1,0.0,1.0
+MA,christmas supplies,1,1,0.0,1.0
+MA,cds dvds musicals,1,1,0.0,1.0
+MA,books imported,1,1,0.0,1.0
+MA,air conditioning,1,1,0.0,1.0
+RO,consoles games,1,1,0.0,1.0
+RO,musical instruments,1,1,0.0,1.0
+RO,market place,1,1,0.0,1.0
+GO,tablets printing image,1,1,0.0,1.0
+MG,diapers and hygiene,1,1,0.0,1.0
+RN,furniture mattress and upholstery,1,1,0.0,1.0
+RN,fashion shoes,1,1,0.0,1.0
+RN,dvds blu ray,1,1,0.0,1.0
+RN,construction tools safety,1,1,0.0,1.0
+AM,food,1,1,0.0,1.0
+AM,fixed telephony,1,1,0.0,1.0
+AM,fashion bags accessories,1,1,0.0,1.0
+AM,drinks,1,1,0.0,1.0
+MT,art,1,1,0.0,1.0
+GO,dvds blu ray,1,1,0.0,1.0
+AM,computers,1,1,0.0,1.0
+AM,books general interest,1,1,0.0,1.0
+AM,audio,1,1,0.0,1.0
+AM,art,1,1,0.0,1.0
+AM,air conditioning,1,1,0.0,1.0
+MT,fashion male clothing,1,1,0.0,1.0
+MT,fashio female clothing,1,1,0.0,1.0
+GO,cine photo,1,1,0.0,1.0
+MS,small appliances home oven and coffee,1,1,0.0,1.0
+MS,signaling and security,1,1,0.0,1.0
+AL,musical instruments,1,1,0.0,1.0
+AL,industry commerce and business,1,1,0.0,1.0
+TO,industry commerce and business,1,1,0.0,1.0
+AL,food drink,1,1,0.0,1.0
+AL,food,1,1,0.0,1.0
+AL,dvds blu ray,1,1,0.0,1.0
+AL,drinks,1,1,0.0,1.0
+AL,construction tools construction,1,1,0.0,1.0
+RO,construction tools safety,1,1,0.0,1.0
+RN,industry commerce and business,1,1,0.0,1.0
+RN,home construction,1,1,0.0,1.0
+RN,home confort,1,1,0.0,1.0
+AL,home confort,1,1,0.0,1.0
+MT,drinks,1,1,0.0,1.0
+MT,costruction tools tools,1,1,0.0,1.0
+MT,cine photo,1,1,0.0,1.0
+MT,christmas supplies,1,1,0.0,1.0
+AC,christmas supplies,1,1,0.0,1.0
+TO,home appliances,1,1,0.0,1.0
+AC,computers,1,1,0.0,1.0
+TO,small appliances home oven and coffee,1,1,0.0,1.0
+TO,musical instruments,1,1,0.0,1.0
+TO,market place,1,1,0.0,1.0
+MS,costruction tools tools,1,1,0.0,1.0
+TO,fashion shoes,1,1,0.0,1.0
+AC,small appliances,1,1,0.0,1.0
+AC,musical instruments,1,1,0.0,1.0
+AC,market place,1,1,0.0,1.0
+AC,consoles games,1,1,0.0,1.0
+TO,books general interest,1,1,0.0,1.0
+TO,audio,1,1,0.0,1.0

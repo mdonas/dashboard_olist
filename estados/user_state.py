@@ -30,7 +30,10 @@ def autopct_format(values):
         return '{:.1f}%\n({v:d})'.format(pct, v=val)
     return my_format
 
-ax.pie(y, labels=x, colors=c,autopct=autopct_format(y),textprops={'fontsize': 8})
+wedges,texts,autotexts=ax.pie(y, labels=x, colors=c,autopct=autopct_format(y),textprops={'fontsize': 8,'color':'white'})
+# ---> Estilo etiquetas exteriores (nombres)
+for t in texts:
+    t.set_color("black")
 
 
 st.pyplot(fig,use_container_width=True)

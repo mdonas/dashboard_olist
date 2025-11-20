@@ -4,7 +4,7 @@ import pandas as pd
 import data_store as ds
 
 df_customer_unique_with_order_date=pd.read_csv('./csv/df_customer_unique_with_order_date.csv',parse_dates=['order_purchase_timestamp']) 
-st.header('Cliente por ciudad y fecha',anchor=False,divider=True)
+st.markdown("<h1 style='text-align: center;'>Analisis de Pedidos</h1>", unsafe_allow_html=True)
 
  # fecha_inicio = ['order_purchase_timestamp'].min().date()
 min=df_customer_unique_with_order_date['order_purchase_timestamp'].min().date()
@@ -51,10 +51,10 @@ ax.bar(x,y, color=c)
 
 # Poner nota encima de la barra
 for i in range(len(x)):
-    ax.text(i, y[i], y[i], ha='center',va='bottom',fontsize=11,fontweight='bold')
+    ax.text(i, y[i], y[i], ha='center',va='bottom',fontsize=13,fontweight='bold')
 
 ax.tick_params(labelsize=13)
 ax.set_ylabel('Clientes',fontsize=15,fontweight='bold')
 ax.set_xlabel('Ciudad',fontsize=15,fontweight='bold')
-ax.legend(handles, labels_in)
+ax.legend(handles, labels_in,fontsize=15)
 st.pyplot(fig)

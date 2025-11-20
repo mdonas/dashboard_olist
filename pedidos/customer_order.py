@@ -6,8 +6,9 @@ import numpy as np
 
 df_customers=ds.df_customers.copy()
 df_customers_unique=ds.df_customers_unique.copy()
+st.markdown("<h1 style='text-align: center;'>Analisis de Pedidos</h1>", unsafe_allow_html=True)
 
-st.header('Pedidos por ciudad',anchor=False,divider=True)
+st.subheader('Pedidos por ciudad',anchor=False,divider=True)
 # ------------------------------------------------------------------------------------------------------
 # Calculos tabla
 
@@ -53,13 +54,13 @@ c_pastel = df_city_state_group['customer_state'].head(5).apply(lambda x: colors_
 # Leyenda
 labels_in = [l for l in state_to_color.keys() if l in df_city_state_group['customer_state'].head(5).values]
 handles = [plt.Rectangle((0,0),1,1, color=state_to_color[label]) for label in labels_in]
-ax1.legend(handles, labels_in,fontsize=20)
+ax1.legend(handles, labels_in,fontsize=26)
 
 # Graficar datos
 w, pos = 0.4, np.arange(len(x))
 ax1.bar(pos - w/2 , y1, width=w, color = c_pastel)
 ax1.bar(pos + w/2, y2, width=w, color = c)
-ax2.plot(x, y3, marker='o',color='m')
+ax2.plot(x, y3, marker='o',color='m',linewidth=4,markersize=15)
 
 # Poner nota encima de la barra
 for i in range(len(x)):

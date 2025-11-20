@@ -5,20 +5,34 @@ import streamlit as st
 
 df_number_review_state=ds.df_number_review_state.copy()
 df_mean_score=ds.df_mean_score.copy()
+st.markdown("<h1 style='text-align: center;'>Analisis de Reseñas</h1>", unsafe_allow_html=True)
 
 # -------------------------------------------------------------------------------
-# st.header("Número de reviews por estado",anchor=False,divider=True)
+st.subheader("Distribucion de reseñas por estado",anchor=False,divider=True)
 
 #Nº de reviews por estado
-# df_sorted = df_number_review_state.sort_values('number_reviews', ascending=False).head(10)
+top5 = df_number_review_state.head(5)
+df_merge_number_reviews_customers_top5 = df_number_review_state.head(5)
+others = df_number_review_state.iloc[5:].sum()
 
-# fig=plt.figure(figsize=(10,6))
-# plt.bar(df_sorted['customer_state'], df_sorted['number_reviews'])
-# plt.ylabel("Número de reviews",fontweight='bold')
-# plt.xlabel("Estado",fontweight='bold')
-# plt.tight_layout()
-# st.pyplot(fig)
+row_others = pd.DataFrame({
+    'customer_state': ['Otros'],
+    'number_reviews': [others['number_reviews']]
+})
 
+df_number_review_state_top_5 = pd.concat([top5, row_others], ignore_index=True)
+ 
+values = df_number_review_state_top_5['number_reviews']
+labels = df_number_review_state_top_5['customer_state']
+
+fig=plt.figure(figsize=(7,7))
+plt.pie(
+    values,
+    labels=labels,
+    autopct=lambda pct: f"{pct:.1f}%"
+)
+plt.tight_layout()
+st.pyplot(fig)
 # -------------------------------------------------------------------------------
 st.header("Top 10 estados con mayor número de reviews y su puntuación media",anchor=False,divider=True)
 

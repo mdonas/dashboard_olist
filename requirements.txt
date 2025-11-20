@@ -5,3 +5,4 @@ matplotlib
 geopandas
 folium
 mapclassify
+streamlit_folium

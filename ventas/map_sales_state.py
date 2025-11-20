@@ -21,7 +21,11 @@ gdf2=gdf.copy()
 gdf['centroid'] = gdf.centroid
 fig,ax = plt.subplots(figsize=(10,14))
 ax.set_axis_off()
-for x, y, label in zip(gdf.centroid.x, gdf.centroid.y, gdf.name):
+for x, y, label,state in zip(gdf.centroid.x, gdf.centroid.y, gdf.name,gdf.id):
+    if state == "GO":      # ← el estado que quieres mover
+        y = y - 0.8  
+    elif state =="DF":
+        y=y+0.5
     ax.annotate(label, xy=(x-1.5, y), xytext=(0, 0), textcoords="offset points", size=8, color='white', weight='bold',
                 path_effects=[pe.withStroke(linewidth=2, foreground="black")])
 

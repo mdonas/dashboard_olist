@@ -13,6 +13,7 @@ df_merge_late_total=pd.read_csv('./csv/df_merge_late_total.csv',parse_dates=['da
 df_mean_score=pd.read_csv('./csv/df_mean_score.csv')
 df_number_review_state=pd.read_csv('./csv/df_number_review_state.csv')
 df_metric_products=pd.read_csv('./csv/df_metric_products.csv')
+df_delivery_time_state=pd.read_csv('./csv/df_delivery_time_state.csv',parse_dates=['delivery_time'])
 
 # Cargar JSON
 gdf = gpd.read_file('./public/brazil_geo.json')
@@ -43,6 +44,7 @@ df_late_state = df_merge_late_total.groupby(['customer_state']).agg({'orders_lat
 df_top_category_state = (df_metric_products.loc[df_metric_products.groupby('customer_state')['number_sells'].idxmax(),['customer_state', 'product_category_name_en']])
 df_final_metrics = df_state_sum.merge(df_top_category_state, on='customer_state')
 df_final_metrics['total_ratio'] = (df_final_metrics['total_sells']/df_final_metrics['total_customers']).round(2)
+df_delivery_time_state['delivery_time']=pd.to_timedelta(df_delivery_time_state['delivery_time'])  
 
 # -------------------------------------------------------------------------------
 

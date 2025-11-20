@@ -1,5 +1,6 @@
 import streamlit as st
 import matplotlib.pyplot as plt
+import matplotlib.patheffects as pe
 import pandas as pd
 import data_store as ds
 
@@ -10,7 +11,7 @@ df_merge_late_total=pd.read_csv('./csv/df_merge_late_total.csv')
 df_merge_late_total['days_diference_mean']=pd.to_timedelta(df_merge_late_total['days_diference_mean'])
 
 # --------------------------------------------------------------------------------------------
-st.subheader('Retraso medio por ciudad',anchor=False,divider=True)
+st.subheader('Retraso promedio en la entrega por ciudad',anchor=False,divider=True)
 #dias retraso medio
 df_merge_late_total['delay_days'] = df_merge_late_total['days_diference_mean'].dt.total_seconds() / 86400
 df_sorted = df_merge_late_total.sort_values('delay_days', ascending=False).head(20)
@@ -28,9 +29,41 @@ plt.bar(x,y,color=c)
 
 plt.legend(handles,labels_in,ncols=4)
 plt.xticks(rotation=45,ha='right')
-plt.ylabel("Días")
-plt.xlabel("Ciudad")
+plt.ylabel("Días",fontsize=13,fontweight='bold')
+plt.xlabel("Ciudad",fontsize=13,fontweight='bold')
 plt.tight_layout()
+st.pyplot(fig)
+
+# -----------------------------------------------------------------------------------------
+st.subheader('Dias que tardan en llegar los pedidos de media',anchor=False,divider=True)
+gdf=ds.gdf.copy()
+df_delivery_time_state=ds.df_delivery_time_state.copy()
+gdf_delivery = pd.merge(
+    gdf,
+    df_delivery_time_state,
+    on='id',
+    how='inner'
+)
+gdf_delivery['delivery_time'] = gdf_delivery['delivery_time'].dt.total_seconds() / 86400
+
+gdf_delivery['centroid'] = gdf_delivery.centroid
+fig,ax = plt.subplots(figsize=(10,14))
+fig.patch.set_facecolor('aliceblue')
+ax.set_axis_off()
+for x, y, label,state in zip(gdf_delivery.centroid.x, gdf_delivery.centroid.y, gdf_delivery.delivery_time.round(2),gdf_delivery['id']):
+    if state == "GO":      # ← el estado que quieres mover
+        y = y - 0.8  
+    elif state=="DF":
+        y=y+0.5
+    ax.annotate(label, xy=(x-1, y), xytext=(0, 0), textcoords="offset points", size=9, color='white', 
+                path_effects=[pe.withStroke(linewidth=2, foreground="black")])
+
+gdf_delivery.plot('delivery_time',
+        legend=True, 
+        legend_kwds={"orientation": "horizontal",},
+        edgecolor='lavender',
+        linewidth=0.4,
+        ax=ax)
 st.pyplot(fig)
 
 # -----------------------------------------------------------------------------------------
@@ -42,3 +75,5 @@ diagnosis_counts['diagnosis']=diagnosis_counts['diagnosis'].str.split(':').str[0
 fig2=plt.figure(figsize=(15,10))
 plt.pie(diagnosis_counts['count'],labels=diagnosis_counts['diagnosis'], textprops={'fontsize': 20,'fontweight':'bold'} ,autopct=lambda pct: f"{pct:.1f}%", )
 st.pyplot(fig2)
+
+# -----------------------------------------------------------------------------------------

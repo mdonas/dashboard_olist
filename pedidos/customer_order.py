@@ -8,7 +8,7 @@ df_customers=ds.df_customers.copy()
 df_customers_unique=ds.df_customers_unique.copy()
 st.markdown("<h1 style='text-align: center;'>Analisis de Pedidos</h1>", unsafe_allow_html=True)
 
-st.subheader('Pedidos por ciudad',anchor=False,divider=True)
+st.subheader('Numero de pedidos por ciudad',anchor=False,divider=True)
 # ------------------------------------------------------------------------------------------------------
 # Calculos tabla
 

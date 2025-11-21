@@ -39,7 +39,7 @@ df_state_sum = (
 )
 df_late_state = df_merge_late_total.groupby(['customer_state']).agg({'orders_late':'sum',
                                                                      'late_orders_respect_total_%':'mean',
-                                                                     'delay_days':'sum'}).reset_index()
+                                                                     'delay_days':'mean'}).reset_index()
 
 df_top_category_state = (df_metric_products.loc[df_metric_products.groupby('customer_state')['number_sells'].idxmax(),['customer_state', 'product_category_name_en']])
 df_final_metrics = df_state_sum.merge(df_top_category_state, on='customer_state')
